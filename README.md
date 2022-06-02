@@ -3,6 +3,7 @@ For the iris problem, calculate and plot the confusion matrix.
 
 ![1](https://user-images.githubusercontent.com/76804160/171733938-55796ab5-ff5b-4003-9445-5e1e9e06ce91.png)
 
+
 ## LLS Study hour and grade:
 - Create continuous random data for the problem of number of study hours (X) and grade (Y) of students.
 
@@ -19,6 +20,7 @@ For the iris problem, calculate and plot the confusion matrix.
 - Compare the output of your method with the output of the linregress method from the scipy library.
 
 ![22](https://user-images.githubusercontent.com/76804160/171735727-c58fe28d-2dc1-4c00-b437-38ac7b0b7b66.png)
+
 
 ## LLS Boston:
 Implement the Linear least squares method on the Boston database from the scikit-learn library.
